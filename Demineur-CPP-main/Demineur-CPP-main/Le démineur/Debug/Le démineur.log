@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\lenou\OneDrive\Bureau\BUT\Le démineur\Source.cpp(16,48): warning C4091: 'typedef ' : ignoré à gauche de 'Etat' quand aucune variable n'est déclarée
-C:\Users\lenou\OneDrive\Bureau\BUT\Le démineur\Source.cpp(39,20): warning C4018: '<' : incompatibilité signed/unsigned
-C:\Users\lenou\OneDrive\Bureau\BUT\Le démineur\Source.cpp(40,21): warning C4018: '<' : incompatibilité signed/unsigned
-  Le démineur.vcxproj -> C:\Users\lenou\OneDrive\Bureau\BUT\Le démineur\Debug\Le démineur.exe
