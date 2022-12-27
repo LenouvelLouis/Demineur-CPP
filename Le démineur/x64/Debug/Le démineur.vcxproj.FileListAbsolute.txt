@@ -1,0 +1,2 @@
+C:\Users\lenou\OneDrive\Bureau\BUT\Le démineur\x64\Debug\démineur.exe
+C:\Users\mrest\OneDrive\Documents\PROJET POUR GITHUB\DémineurC++\Le démineur\x64\Debug\démineur.exe
